@@ -6,7 +6,7 @@ The game for subject that game PX design
 * Team leader: [seungjunpark-khu](https://github.com/seungjunpark-khu)
 ## Member
 * [seungjunpark-khu](https://github.com/seungjunpark-khu) - Gameplay Engineer
-* [seungjunpark-khu]- Gameplay Engineer
-* [siris-Kang]- Gameplay Engineer
-* [ssw03270]- AI Engineer
-* [YeBae-Son]- UI Engineer
+* [Wawtuh](https://github.com/Wawtuh) - Gameplay Engineer
+* [siris-Kang](https://siris-Kang.github.io.) - Gameplay Engineer
+* [ssw03270](http://ssw03270.github.io.) - AI Engineer
+* [YeBae-Son](https://github.com/YeBae-Son) - UI Engineer
