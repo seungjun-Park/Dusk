@@ -11,7 +11,11 @@ The game for subject that game PX design
 * [ssw03270](http://ssw03270.github.io.) - AI Engineer
 * [YeBae-Son](https://github.com/YeBae-Son) - UI Engineer
 ## Results
- * https://www.youtube.com/watch?v=CPXR7sjVgk4
+ * https://www.youtube.com/watch?v=CPXR7sjVgk4    
+     
+ <img src="./imgs/img1.gif" width="46%" height="46%"/> <img src="./imgs/img3.gif" width="46%" height="46%"/>   
+ <img src="./imgs/img4.gif" width="46%" height="46%"/> <img src="./imgs/img2.gif" width="46%" height="46%"/> 
+ 
 ### Files
  * [Project Files](https://drive.google.com/file/d/1vB7qr8rKHNpvL85vzs7A_FYODgHODal3/view?usp=sharing) - Google Drive
  * [Game Files](https://drive.google.com/file/d/1qgSlx5MMKB61zWNoM7zKf-_BPerrrYtK/view?usp=sharing) - Google Drive
